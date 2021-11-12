@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sulphur Point
+- Font Author: Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)
+- Font Source: http://fonts.gstatic.com/s/sulphurpoint/v4/RLp5K5vv8KaycDcazWFPBj2aRfkSu6EuTHo.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
