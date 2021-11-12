@@ -1,7 +1,9 @@
+import Header from './components/header/Header';
+
 function App() {
   return (
     <div className="App">
-      <h1 style={{ textAlign: 'center' }}>Images Gallery</h1>
+      <Header title="Images Gallery" darkMode={true} />
     </div>
   );
 }
