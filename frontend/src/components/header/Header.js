@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
+import Search from '../search/Search';
 
 const Header = ({ title, darkMode = false }) => {
   const bgVariant = darkMode ? 'dark' : 'light';
@@ -11,6 +12,7 @@ const Header = ({ title, darkMode = false }) => {
           <Navbar.Brand href="#home">{title}</Navbar.Brand>
         </Container>
       </Navbar>
+      <Search />
     </>
   );
 };
